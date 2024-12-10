@@ -3,3 +3,5 @@ const AdminPage = () => {
     <div className="">AdminPage</div>
   )
 }
+
+export default AdminPage
